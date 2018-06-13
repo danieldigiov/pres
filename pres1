@@ -1,0 +1,51 @@
+<html>
+		<head>
+			<title>Yeet</title>
+		</head>
+
+		<body>
+		<table>
+	<tr>
+			<td><p id="ace">Ace<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="two">Two<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   
+   </tr>
+   <tr>
+			<td><p id="three">Three<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="four">Four<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   <tr>
+   <tr>
+			<td><p id="five">Five<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="six">Six<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   </tr>
+   <tr>
+			<td><p id="seven">Seven<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="eight">Eight<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   </tr>
+   <tr>
+			<td><p id="nine">Nine<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="ten">Ten<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   </tr>
+   <tr>
+			<td><p id="jack">Jack<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+			<td><p id="queen">Queen<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   </tr>
+   <tr>
+			<td><p id="king">King<input type="number" name="quantity"
+   min="0" max="4" step="1"></p></td>
+   </tr>
+		</table>
+		</body>
+	</html>
